@@ -7,7 +7,7 @@
 - Ejecutar el comando
   ``composer install``
   ``npm install``
-  ``npm run dev``
+  ``npm run build``
 
 - El siguiente paso configurar el .env, para este paso adjunto el archivo ya que este se encuentra ignorado por seguridad
 
